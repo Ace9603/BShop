@@ -25,27 +25,27 @@ Nội Dung:
 ## II. Dữ Liệu Lưu Trữ Firebace
 1.1 Mô Tả:
 
-![333882213_578557670990532_3219628389027638169_n](https://user-images.githubusercontent.com/126417188/221432684-5d560473-15fd-4592-adb1-c3428ccc4b39.png)
+![image](https://user-images.githubusercontent.com/126445565/222034799-452cdb78-82a2-4534-bc67-eb358d152a2f.png)
 
 1.2 Liên Kết Qua Firebace.
 
-![333802434_918062455872450_848107165180408801_n](https://user-images.githubusercontent.com/126417188/221433614-95299511-d107-4571-a5f3-682937a8e90b.png)
+![image](https://user-images.githubusercontent.com/126445565/222034612-833c507e-edcd-4c7d-be5d-2b3feb6074a8.png)
 
 ### Giao Diện Trang Web
 
 index.html
 
-![328753507_583844903653756_2790737285118207643_n](https://user-images.githubusercontent.com/126417188/221433166-5f261424-2253-4cbb-b557-09f53dd85885.png)
+![image](https://user-images.githubusercontent.com/126445565/222038697-d8fb3072-400d-4dd4-99ce-bb2a5d081b12.png)
 
 ## Giao Diện ADMIN
 
-![333786226_1936894563329412_108516813981637206_n](https://user-images.githubusercontent.com/126417188/221433348-3af2ed92-d118-4d0d-b150-b1df7304708f.png)
+![image](https://user-images.githubusercontent.com/126445565/222038861-dadcc0ee-310f-447e-818d-6e848673719d.png)
 
 ## Vị Trí Lưu Trữ .
 
 - Dễ nhận biết vị trí file cần lưu trữ . người , admin ,.....
 
-![image](https://user-images.githubusercontent.com/126417188/221433797-ad277e2a-aeae-4b84-bf01-32cc1a2938e3.png)
+![image](https://user-images.githubusercontent.com/126445565/222035986-c0a4468c-4aef-4cd0-8952-63b0d7d07e5b.png)
 
 #Triển Khai 
 
